@@ -1,0 +1,5 @@
+#Ignorar venvironment
+venv/
+#Ignorar la cache de Python
+--pycache--/
+*.pyc

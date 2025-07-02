@@ -1,0 +1,1 @@
+Este es un repositorio en donde se puede informar de qué trata el repositorio con información adicional del mismo, se lo hace con el objetivo de tener una guía para el futuro.
